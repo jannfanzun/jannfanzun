@@ -1,9 +1,11 @@
 # Hi there, I'm Jann! 👋
 
-![Web Developer](https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-blue)
-![Angular Enthusiast](https://img.shields.io/badge/Angular%20-%F0%9F%85%B0-brightgreen)
-![TypeScript Lover](https://img.shields.io/badge/TypeScript-%F0%9F%92%BB-blue)
-![Database Expert](https://img.shields.io/badge/Database%20-%F0%9F%93%82-orange)
+[![Web Developer](https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-blue)]
+[![Angular Enthusiast](https://img.shields.io/badge/Angular%20-%F0%9F%85%B0-brightgreen)]
+[![TypeScript Lover](https://img.shields.io/badge/TypeScript-%F0%9F%92%BB-blue)]
+[![Database Expert](https://img.shields.io/badge/Database%20-%F0%9F%93%82-orange)]
+[![Figma User](https://img.shields.io/badge/Figma-%F0%9F%96%8A-violet)]
+
 
 Welcome to my GitHub Portfolio! 🏎
 
@@ -13,11 +15,13 @@ I'm currently focused on building and growing [WebTree.ch](https://webtree.ch/),
 - Mastering Angular for dynamic and interactive web applications.
 - Enhancing my frontend prowess with TypeScript.
 - Leveraging databases like Postgres and MySQL for robust data management.
+- Design and Prototyping in Figma.
 
 ## 💬 Ask Me About
 - Web development best practices.
 - Tips for learning Angular, TypeScript, and effective database management.
 - How to optimize your website for performance.
+- Design logos and vectorizing your images.
 
 ## 📫 Reach Me
 - 🌐 Website: [WebTree.ch](https://webtree.ch/)
